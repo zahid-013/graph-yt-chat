@@ -1,0 +1,8 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+langchain-huggingface==0.1.2
+langgraph==0.4.1
+langchain-core==0.3.58
+python-dotenv==1.1.0
+pydantic==2.11.4
+huggingface-hub==0.30.2
